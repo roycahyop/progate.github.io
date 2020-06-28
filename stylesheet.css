@@ -1,0 +1,13 @@
+body {
+  width: 50%;
+}
+header {
+  text-align:left
+}
+
+.sidebar-right {
+  width: 30%;
+}
+footer {
+  text-align: left
+}
